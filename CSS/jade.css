@@ -1,0 +1,22 @@
+body{
+    background-color:aqua;
+    
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+table , th , td {
+    border: 3px solid black;
+}
+th , td {
+    padding: 4px;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color: white;
+}
+
+.navbar-styling{
+    background-color: blue;
+}
